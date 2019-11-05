@@ -2,7 +2,7 @@
 // git add  통해서 필요한 파일을 git 관리에 등록 -> 불필요한 파일은 미등록 (.gitignore)
 요기다가도 했다고 치자.
     // 1. 파일 등록 (add)
-    // 2. 수정된 상태 (modified status)
+    // 2. 수정된 상태 (modified status) 여기다가 내가 다른 내용을 입력하면 conflict 남.
     // 5. 상태 업로드 (push) - 현재 최종 커밋 상태를 서버에 업로드
 요기에다가
 함수를
